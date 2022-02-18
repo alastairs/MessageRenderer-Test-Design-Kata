@@ -1,0 +1,7 @@
+﻿<ProjectConfiguration>
+  <Settings>
+    <AdditionalFilesToIncludeForProject>
+      <Value>..\..\src\codingdojo\MessageRenderer.cs</Value>
+    </AdditionalFilesToIncludeForProject>
+  </Settings>
+</ProjectConfiguration>
